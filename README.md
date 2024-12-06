@@ -1,7 +1,7 @@
 ### Hi there👋
 <br/>
 <div align="center" >
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jamshdbek&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=maxammadjanov-abdulaziz&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
  <img src="https://i.giphy.com/VekcnHOwOI5So.webp" width="200"  /> 
 </div>
   <br/>
